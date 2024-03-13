@@ -16,4 +16,4 @@ Please cite our paper:
 }
 ```
 ## References
-Singh, Ashutosh, et al. "(https://ieeexplore.ieee.org/abstract/document/10094998)[Inv-senet: Invariant self expression network for clustering under biased data.]" ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
+Singh, Ashutosh, et al. "[Inv-senet: Invariant self expression network for clustering under biased data.](https://ieeexplore.ieee.org/abstract/document/10094998)" ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
