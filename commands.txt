@@ -1,0 +1,10 @@
+
+# DATAGEN
+
+n feature_generation_scattering_ColoredMNIST.py --dataset ColoredMNIST
+
+# SENET
+
+python main_senet.py --dataset ColoredMNISTv2 --feat_type scattering
+
+# InvSENET
