@@ -1,8 +1,6 @@
 # Inv-Senet
 Inv-Senet: Invariant Self Expression Network for Clustering Under Biased Data. (ICASSP23)
 
-Code will be released soon.
-
 Please cite our paper:
 ## Cite
 ```
