@@ -1,5 +1,5 @@
 # Invariant Self Expression Network
-Inv-Senet: Invariant Self Expression Network for Clustering Under Biased Data. (ICASSP23)
+This repository contains the code for -> Inv-Senet: Invariant Self Expression Network for Clustering Under Biased Data. (ICASSP23) [1]. Components of our code are based on Senet [2].
 
 To cite our paper:
 ## Cite
@@ -14,4 +14,6 @@ To cite our paper:
 }
 ```
 ## References
-Singh, Ashutosh, et al. "[Inv-senet: Invariant self expression network for clustering under biased data.](https://ieeexplore.ieee.org/abstract/document/10094998)" ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
+[1] Singh, Ashutosh, et al. "[Inv-senet: Invariant self expression network for clustering under biased data.](https://ieeexplore.ieee.org/abstract/document/10094998)" ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023.
+
+[2] Zhang, Shangzhi, Chong You, René Vidal, and Chun-Guang Li. "Learning a self-expressive network for subspace clustering." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 12393-12403. 2021.
